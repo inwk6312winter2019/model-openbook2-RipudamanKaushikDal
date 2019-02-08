@@ -23,7 +23,7 @@ def fun_1(string2,string1):
 			if list1[23] in streets:
 				roads.append(list1[4])
 	return roads
-print(fun_1(7,10,'Accessible','ARTERIAL'))
+print(fun_1('Accessible','ARTERIAL'))
 
 #task b
 def fun2():
